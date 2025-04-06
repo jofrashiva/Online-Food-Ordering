@@ -27,9 +27,10 @@ This project is a basic [Library Management System / Online Food Ordering System
 📁 SQL Files
     ├── create_tables.sql
     ├── insert_data.sql
-    └── retrieval_queries.sql
+    └── retrieval_queries.sql and etc...
+
 📁 Screenshots
-    ├── data_insertion.png
-    └── query_output.png
+    ├── ER Diagram.png
+    └── query_output.png and etc...
 ```
 
