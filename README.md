@@ -1,10 +1,10 @@
 
 
 
-# 📚 Library Management System / 🍔 Online Food Ordering System
+# 🍔 Online Food Ordering System
 
 ## 📋 Project Description
-This project is a basic [Library Management System / Online Food Ordering System] designed to demonstrate database operations like **data insertion**, **retrieval queries**, and **result display** using **MySQL Workbench**.
+This project is a basic Online Food Ordering System designed to demonstrate database operations like **data insertion**, **retrieval queries**, and **result display** using **MySQL Workbench**.
 
 ## 🚀 Technologies Used
 - MySQL Workbench
